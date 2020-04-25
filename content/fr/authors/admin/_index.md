@@ -15,13 +15,13 @@ role: Data Analyst Junior
 # Organizations/Affiliations
 organizations:
 - name: Université de Tours
-  url: ""
+  url: "https://www.univ-tours.fr/site-de-l-universite/accueil--706278.kjsp"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Data Analyse
+- Analyse de données
 - Python
 
 
@@ -61,5 +61,5 @@ email: ""
 # - Visitors
 ---
 
-Etudiant en Master d'économie et d'analyse de données, je suis formé à 
+Etudiant en Master Economiste d'Entreprise, je suis formé à 
 l'analyse économétrique (logiciel R). 
