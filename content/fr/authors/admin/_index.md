@@ -15,7 +15,7 @@ role: Data Analyst Junior
 # Organizations/Affiliations
 organizations:
 - name: Université de Tours
-  url: "https://www.univ-tours.fr/site-de-l-universite/accueil--706278.kjsp"
+  url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
