@@ -14,7 +14,7 @@ role: Junior Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: University of Tours
+- name: Mecen
   url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
