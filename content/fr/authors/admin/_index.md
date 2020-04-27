@@ -14,7 +14,7 @@ role: Data Analyst Junior
 
 # Organizations/Affiliations
 organizations:
-- name: Université de Tours
+- name: Mécen
   url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,5 +61,5 @@ email: ""
 # - Visitors
 ---
 
-Etudiant en Master Economiste d'Entreprise, je suis formé à 
+Etudiant en Master Economiste d'Entreprise (Mecen), je suis formé à 
 l'analyse économétrique (logiciel R). 
