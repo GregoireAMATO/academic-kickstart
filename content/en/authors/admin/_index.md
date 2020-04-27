@@ -63,6 +63,5 @@ email: ""
 # - Visitors
 ---
 
-Master's student in industrial organization and Data Analysis on University 
-of Tours, I had the opportunity to master programming languages like Python, R, VBA 
+Master's student in industrial organization and Data Analysis (Mecen), I had the opportunity to master programming languages like Python, R, VBA 
 and SQL. 
