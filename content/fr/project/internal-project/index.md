@@ -1,81 +1,91 @@
 ---
-title = Internal Project
-draft = false
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+title = "Cours"
+subtitle = "Cours dispensés en licence et master d'économie à Tours"
 
-# Publication type.
-# Legend:
-#  0: divers
-#  1: administratif
-#  2:  
-#  3: divers mecen
-#  4: archives
-#  5: enseignements en cours
-#  6: Tutoriel...
-publication_types = ["4"]
+[content]
+  # Page type to display. E.g. project.
+  page_type = "project"
 
-# Publication name and optional abbreviated version.
-publication = ""
-publication_short = " "
+  [content.filters]
+    tag = "maths"
 
-# Abstract and optional shortened version.
-abstract = "Ensembles, dénombrement, nombres complexes, suites numériques"
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
-summary = "Ensembles, dénombrement, nombres complexes, suites numériques"
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
 
-# Caption (optional)
-caption = " "
+  [[content.filter_button]]
+    name = "Tous"
+    tag = "*"
 
-# Focal point (optional)
-# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-focal_point = "Center"
+  [[content.filter_button]]
+    name = "LÉcoT"
+    tag = "licence"
 
-# Show image only in page previews?
-preview_only = false
+  [[content.filter_button]]
+    name = "MÉcen"
+    tag = "master"
 
-# Featured image thumbnail (optional)
-image_preview = ""
+  [[content.filter_button]]
+    name = "R"
+    tag = "r"
 
-# Is this a selected publication? (true/false)
-selected = false
+  [[content.filter_button]]
+    name = "Statistiques"
+    tag = "stats"
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's filename without extension.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-#   Otherwise, set `projects = []`.
-projects = []
+  [[content.filter_button]]
+    name = "Mathématiques"
+    tag = "maths"
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lecot","maths","licence","L1","1819"]
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
-# Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   3 = Card
+  #   5 = Showcase # non
+  view = 3
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
 
-# Does this page contain LaTeX math? (true/false)
-math = true
+  # Background color.
+  # color = "navy"
 
-# Does this page require source code highlighting? (true/false)
-highlight = true
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+
+[advanced]
+ # Custom CSS.
+ css_style = ""
+
+ # CSS class.
+ css_class = ""
 
 ---
