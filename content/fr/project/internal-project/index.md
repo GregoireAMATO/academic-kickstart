@@ -3,7 +3,6 @@ title = Internal Project
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Grégoire AMATO"]
 
 # Publication type.
 # Legend:
