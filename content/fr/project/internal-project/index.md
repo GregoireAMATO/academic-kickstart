@@ -1,6 +1,5 @@
 ---
 title = Internal Project
-date: "2016-04-27T00:00:00Z"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
