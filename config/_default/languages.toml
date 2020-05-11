@@ -19,7 +19,7 @@
     weight = 1
   [[fr.menu.main]]
   name = "Projets"  # Title of the link.
-  url = "projects/"  # Widget Page folder name.
+  url = "newpage/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
   [[fr.menu.main]]
