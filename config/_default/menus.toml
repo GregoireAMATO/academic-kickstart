@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Projects"  # Title of the link.
-  url = "projects/"  # Widget Page folder name.
+  url = "newpage/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
 [[main]]
