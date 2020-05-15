@@ -17,7 +17,7 @@ links:
   icon_pack: ai
   link: 'files/cv_fr.pdf'
 url_code: ""
-url_pdf: ""
+url_pdf: "HRS_AMATO.pdf"
 url_slides: ""
 url_video: ""
 
