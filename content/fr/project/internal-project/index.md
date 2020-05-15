@@ -13,9 +13,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
+- icon: cv
+  icon_pack: ai
   link: 'files/cv_fr.pdf'
 url_code: ""
 url_pdf: ""
