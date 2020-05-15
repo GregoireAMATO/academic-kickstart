@@ -1,6 +1,6 @@
 ---
 title: Health and Retirement Study
-summary: Prédiction de vente d'assurances 
+summary: Prédictions de vente d'assurances 
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
