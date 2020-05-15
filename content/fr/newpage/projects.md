@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Tous les projets"
     tag = "*"
   
   [[content.filter_button]]
@@ -30,7 +30,7 @@ subtitle = ""
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Autre"
+    name = "Autres"
     tag = "Demo"
 
 [design]
