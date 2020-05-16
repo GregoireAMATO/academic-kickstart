@@ -23,6 +23,7 @@ bio: Etudiant en économie et en analyse de données.
 interests:
 - Analyse de données
 - Python
+- E-commerce
 
 
 education:
