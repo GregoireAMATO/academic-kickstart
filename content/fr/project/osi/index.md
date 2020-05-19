@@ -1,6 +1,6 @@
 ---
 title: Online Shoppers Intentions
-summary: Prédictions des ventes d'un site de e-commerce. 
+summary: Prédictions des ventes d'un site de e-commerce
 tags:
 - Analyse
 date: "2016-04-27T00:00:00Z"
