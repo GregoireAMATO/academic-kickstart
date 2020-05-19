@@ -27,11 +27,15 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Économétrie"
-    tag = "Deep Learning"
+    tag = "Econometrie"
   
   [[content.filter_button]]
-    name = "Autres"
-    tag = "Demo"
+    name = "Python"
+    tag = "Python"
+    
+  [[content.filter_button]]
+    name = "Analyses de données"
+    tag = "Analyse de données"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
