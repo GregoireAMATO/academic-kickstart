@@ -14,7 +14,7 @@ image:
 
 
 
-url_pdf: "fr/project/internal-project/OnlineShoppersIntentions.pdf"
+url_pdf: "fr/project/osi/OnlineShoppersIntentions.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
