@@ -2,8 +2,8 @@
 title: Health and Retirement Study
 summary: Prédictions de vente d'assurances 
 tags:
-- Econométrie
-- Analyse de données
+- Econometrics
+- Analyses
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
