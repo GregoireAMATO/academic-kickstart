@@ -24,7 +24,7 @@ url_pdf: "fr/project/internal-project/HRS_AMATO.pdf"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Création de modèles prédictifs logistiques et probit. L'application est disponible ici : https://regimeapp.herokuapp.com/
+Création de modèles prédictifs logistiques et probit. 
 
 
 
