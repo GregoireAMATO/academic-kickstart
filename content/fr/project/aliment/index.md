@@ -1,6 +1,6 @@
 ---
-title: Health and Retirement Study
-summary: Prédictions de vente d'assurances 
+title: Aliments
+summary: Optimisation sous contrainte
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
