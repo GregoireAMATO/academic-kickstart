@@ -30,7 +30,10 @@ Cette application permet de concevoir un repas selon deux contraintes :
  
 - Le régime alimentaire suivi : Omnivore, Végétarien, Vegan, Sans Lactose
 
-- Un objectif fixé : minimisation du prix seul, minimisation du prix et ne pas dépasser les objectifs à plus de 10%, minimisation du prix et atteindre ses objectifs à plus ou moins 10%
+- Un objectif fixé : 
+  - minimisation du prix seul
+  - minimisation du prix et ne pas dépasser les objectifs à plus de 10%
+  - minimisation du prix et atteindre ses objectifs à plus ou moins 10%
 
 Après avoir renseigné ces contraintes, vous pouvez, si vous le souhaitez, modifier vos objectifs d'apports nutritionnels par repas en modifiant la valeur des sliders. 
 
