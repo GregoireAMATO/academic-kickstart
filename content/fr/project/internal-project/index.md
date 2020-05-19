@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_bonjour: "fr/project/internal-project/HRS_AMATO.pdf"
+url_pdf: "fr/project/internal-project/HRS_AMATO.pdf"
 url_slides: ""
 url_video: ""
 
