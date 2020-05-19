@@ -14,9 +14,11 @@ image:
 
 links:
 url_code: ""
-url_pdf: "fr/project/internal-project/HRS_AMATO.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
+
+links = [{name = "Polycopié", url = "fr/project/internal-project/HRS_AMATO.pdf"}]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
