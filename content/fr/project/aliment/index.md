@@ -14,7 +14,7 @@ image:
 
 
 
-url_pdf: "fr/project/internal-project/HRS_AMATO.pdf"
+url_pdf: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
