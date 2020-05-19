@@ -14,8 +14,7 @@ image:
 
 
 
-links :
-[{name : "Polycopié", url : "fr/project/internal-project/HRS_AMATO.pdf"}]
+url_pdf: [{name : "Polycopié", url : "fr/project/internal-project/HRS_AMATO.pdf"}]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
