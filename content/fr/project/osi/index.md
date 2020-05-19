@@ -1,5 +1,5 @@
 ---
-title: Health and Retirement Study
+title: Online Shoppers Intentions
 summary: Prédictions des ventes d'un site de e-commerce. 
 tags:
 - Analyse
