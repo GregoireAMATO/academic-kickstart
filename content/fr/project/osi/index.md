@@ -1,6 +1,6 @@
 ---
 title: Health and Retirement Study
-summary: Prédictions de vente d'assurances 
+summary: Prédictions des ventes d'un site de e-commerce. 
 tags:
 - Analyse
 date: "2016-04-27T00:00:00Z"
@@ -14,7 +14,7 @@ image:
 
 
 
-url_pdf: "fr/project/internal-project/HRS_AMATO.pdf"
+url_pdf: "fr/project/internal-project/OnlineShoppersIntentions.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
