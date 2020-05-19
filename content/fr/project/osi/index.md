@@ -23,7 +23,7 @@ url_pdf: "fr/project/osi/OnlineShoppersIntentions.pdf"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Etude réalisée sur le jeu de données Online Shoppers Intentions. 
+Etude réalisée sur le jeu de données Online Shoppers Intentions. Réalisé en groupe avec [Camille PHILIPPE](https://www.linkedin.com/in/camille-philippe-data-analyst/) et [Albane SANCHEZ](https://www.linkedin.com/in/albane-sanchez-data-analyst/).
 
 
 
