@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Économétrie"
-    tag = "Econometrie"
+    tag = "Econometrics"
   
   [[content.filter_button]]
     name = "Python"
@@ -35,7 +35,7 @@ subtitle = ""
     
   [[content.filter_button]]
     name = "Analyses de données"
-    tag = "Analyse de données"
+    tag = "Analyses"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
