@@ -14,7 +14,7 @@ image:
 
 
 
-url_pdf: ""
+url_pdf: "fr/project/aliment/regimalim.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
