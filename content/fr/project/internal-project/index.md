@@ -12,13 +12,10 @@ image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
-links = [{name = "Polycopié", url = "fr/project/internal-project/HRS_AMATO.pdf"}]
+
+links :
+[{name = "Polycopié", url = "fr/project/internal-project/HRS_AMATO.pdf"}]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
