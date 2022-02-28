@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Data Scientist/Machine learning Engineer
+role: Junior Data Scientist/Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior Data Scientist/Machine Learning Engeneer
+bio: Junior Data Scientist/Machine Learning Engineer
 
 interests:
-- Analyse de données
+- Machine Learning
 - Python
-- E-commerce
+- Data Analysis
 
 
 education:
