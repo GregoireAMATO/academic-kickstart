@@ -1,5 +1,5 @@
 ---
-title: Aliments
+title: Spotify
 summary: Optimisation sous contrainte
 tags:
 - Python
