@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: First year of Master's degrees
+  - course: Second year of Master's degrees
     institution: University of Tours
     year: 2020
   - course: Economics bachelor degrees
@@ -63,5 +63,5 @@ email: ""
 # - Visitors
 ---
 
-Master's student in industrial organization and Data Analysis (Mecen), I had the opportunity to master programming languages like Python, R, VBA 
+Master's student in industrial organization and Data Analysis (Mecen), I had the opportunity to master programming languages like Python, 
 and SQL. 
