@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Master 1 Economiste d'entreprise
+  - course: Master 2 Economiste d'entreprise
     institution: Université de Tours
     year: 2020
   - course: Licence d'économie
@@ -45,7 +45,7 @@ social:
   link: 'mailto:amato.gregoire@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gregoire-amato-junior-data-analyst/?locale=fr_FR
+  link: https://www.linkedin.com/in/gregoire-amato-junior-data-scientist/?locale=fr_FR
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
