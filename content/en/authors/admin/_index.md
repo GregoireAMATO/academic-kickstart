@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Data Analyst
+role: Junior Machine Learning Engineer, Data Scientist
 
 # Organizations/Affiliations
 organizations:
