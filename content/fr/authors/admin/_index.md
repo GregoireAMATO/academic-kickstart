@@ -18,7 +18,7 @@ organizations:
   url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior Data Scientist/Machine Learning Ingeneer
+bio: Junior Data Scientist/Machine Learning Engeneer
 
 interests:
 - Analyse de données
