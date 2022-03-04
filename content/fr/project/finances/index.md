@@ -1,6 +1,6 @@
 ---
-title: Spotify
-summary: Optimisation sous contrainte
+title: Finances
+summary: Application de gestion de portefeuille boursier
 tags:
 - Python
 date: "2016-04-27T00:00:00Z"
