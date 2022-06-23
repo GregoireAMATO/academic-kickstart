@@ -13,9 +13,9 @@ superuser: true
 role: Junior Data Scientist/Machine Learning Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: Mécen
-  url: "http://mecen-univ-tours.fr/"
+# organizations:
+#- name: Mécen
+#  url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Junior Data Scientist/Machine Learning Engineer
@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
+  - course: Intelligence Artificielle, Deep Learning
+    institution: Datarockstars
+    year: 2022
   - course: Master 2 Economiste d'entreprise
     institution: Université de Tours
-    year: 2020
+    year: 2020-2021
   - course: Licence d'économie
     institution: Université de Tours
     year: 2019
@@ -62,5 +65,5 @@ email: ""
 # - Visitors
 ---
 
-Etudiant en Master Economiste d'Entreprise (Mecen), je suis formé à 
-l'analyse économétrique (logiciel R). 
+Machine Learning Engineer junior, passionné par la programmation, la conception et gestion de projets ainsi que par le Machine Learning. Plutôt généraliste, je tends à me spécialiser en NLP même si les problématiques de Computer Vision ainsi que de Reinforcement Learning m'intéressent également.
+ 
