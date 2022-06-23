@@ -27,4 +27,3 @@ Etude réalisée sur le jeu de données Online Shoppers Intentions. Réalisé en
 
 
 
-
