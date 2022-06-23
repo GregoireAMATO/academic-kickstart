@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
+  - course: AI, Deep Learning
+    institution: Datarockstars
+    year: 2022
   - course: Second year of Master's degrees
     institution: University of Tours
-    year: 2020
+    year: 2020-2021
   - course: Economics bachelor degrees
     institution: University of Tours
     year: 2019
@@ -63,5 +66,4 @@ email: ""
 # - Visitors
 ---
 
-Master's student in industrial organization and Data Analysis (Mecen), I had the opportunity to master programming languages like Python, 
-and SQL. 
+Junior Machine Learning Engineer, passionate about programming, project design and management as well as Machine Learning. Rather generalist, I tend to specialize in NLP even if Computer Vision and Reinforcement Learning issues also interest me.
