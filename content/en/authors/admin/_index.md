@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Machine Learning
 - Data Analysis
 - Python
 
