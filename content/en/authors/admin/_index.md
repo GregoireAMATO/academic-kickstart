@@ -12,10 +12,6 @@ superuser: true
 # Role/position
 role: Junior Machine Learning Engineer, Data Scientist
 
-# Organizations/Affiliations
-organizations:
-- name: Mecen
-  url: "http://mecen-univ-tours.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
